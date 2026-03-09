@@ -13,6 +13,16 @@ Automatizar la configuración de 5 servidores Ubuntu usando Ansible.
 - Ansible
 - Ubuntu
 
+## Estructura del proyecto
+
+├── Dockerfile
+├── images
+├── docker-compose.yml
+├── inventario.ini
+├── ansible.cfg
+├── playbook.yml
+└── README.md
+
 ## Creación de los servidores
 
 El archivo `docker-compose.yml` crea **5 contenedores Ubuntu** que funcionan como servidores SSH.
