@@ -52,9 +52,16 @@ ansible-playbook playbook.yml
 
 ## Ping
 
+![Docker Containers](images/1.png)
+
+## Playbook
+
+![Docker Containers](images/2.png)
+
+## Cowsay
+
+![Docker Containers](images/3.png)
 
 ## Verificación
 
-Entrar a un servidor:
-
-ssh ansible@localhost -p 2221
+![Docker Containers](images/4.png)
